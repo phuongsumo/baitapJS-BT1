@@ -1,0 +1,19 @@
+#question1 .text {
+    font-size: 24px;
+    color: red;
+    font-weight: 700;
+}
+
+.question3_table, tr, td {
+    border: 1px solid ;
+    border-collapse: collapse;
+}
+
+.btn {
+    margin-top: 8px;
+}
+
+.result {
+    margin-top: 8px;
+    margin-bottom: 0;
+}
